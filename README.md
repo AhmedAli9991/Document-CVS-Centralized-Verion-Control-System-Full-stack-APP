@@ -31,11 +31,14 @@ User can create repositories edit and delete the Repositories that he made .
 #### Version Control 
 Once the Repo is initialized the user can add content to it the API 
 will manage all the Versions made by the user or Collaborators can access the Version they want
+The Latest Version will be given to users
 
 #### Collaboration 
 Once the Repo is initialized the user can add other users as Collaborators
 to work on the project the  user can also remove the Collaborators the Collaborators will not
 be given option to edit or delete the repository details versions will be made for collaborators also
+
+
 
 ### How to Run
 - Install all the packages in package.json **npm install** for server an client 
@@ -78,3 +81,6 @@ be given option to edit or delete the repository details versions will be made f
 
 
 ![Captur2e](https://user-images.githubusercontent.com/93770002/168472927-ce7e4462-ccda-4be9-8656-7c3514be2c57.PNG)
+
+### END
+
