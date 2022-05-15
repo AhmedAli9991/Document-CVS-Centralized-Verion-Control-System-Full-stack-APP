@@ -41,3 +41,26 @@ be given option to edit or delete the repository details versions will be made f
 - Install all the packages in package.json **npm install** for server an client 
 - run client by **npm start**
 - Run the Server by either **npm start** or **node app.js**
+
+
+
+
+![168079066-de3bf3ea-828c-4bf7-adad-23dfb93f73b6](https://user-images.githubusercontent.com/93770002/168472838-f0f1ab4e-2482-4b11-b8a4-9394d89d7a5b.png)
+
+
+
+
+
+![screencapture-localhost-3000-2022-05-15-17_03_43](https://user-images.githubusercontent.com/93770002/168472848-44d44671-1fdc-4589-b2dc-35342e034964.png)
+
+
+
+![screencapture-localhost-3000-Dashboard-2022-05-15-17_02_30](https://user-images.githubusercontent.com/93770002/168472851-dddb85a9-b5d6-4713-ba75-ea608f07c49f.png)
+
+
+
+![screencapture-localhost-3000-Repositories-2022-05-15-17_02_57](https://user-images.githubusercontent.com/93770002/168472855-3189d005-5b19-48bf-a4c6-0dc9ecb4d8dc.png)
+
+
+
+
