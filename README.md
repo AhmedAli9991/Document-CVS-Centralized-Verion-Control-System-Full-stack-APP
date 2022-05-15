@@ -26,7 +26,8 @@ User can create an account and sign in to the account and create
 repositories and make version of the content of the Repository 
 
 #### Create Edit delete Repositories 
-User can create repositories edit and delete the Repositories that he made . 
+User can create repositories edit and delete the Repositories that he made intially an empty repository will be made
+with no Versions. 
 
 #### Version Control 
 Once the Repo is initialized the user can add content to it the API 
